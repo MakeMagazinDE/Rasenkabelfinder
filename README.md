@@ -12,6 +12,8 @@ Maker Media GmbH
 
 Hier gibt es den Arduino-Code sowie die Vorlagendateien für die 3D-Druck-Teile. 
 
+----
+
 ### Stückliste LED-Variante:
 
 **Widerstände:**
@@ -64,5 +66,7 @@ Alle Teile der LED-Variante ohne LED, Batterieclip und Batterie
 2 × Diode
 
 1 × Netzstecker, Netzkabel, Netzsteckdose, Gehäuse
+
+----
 
 Den **[vollständigen Artikel zum Rasenkabelfinder](https://www.heise.de/select/make/2022/2/2125307155619074031)** lesen Sie in der Make-Ausgabe 2/22 ab Seite 26.
